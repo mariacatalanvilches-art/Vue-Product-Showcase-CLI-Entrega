@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Producto Demo",
+    "price": 29.99,
+    "description": "Producto de prueba para la demostración.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": { "rate": 4.5, "count": 100 }
+  },
+  {
+    "id": 2,
+    "title": "Producto Hogar",
+    "price": 49.99,
+    "description": "Producto de ejemplo para el catálogo.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": { "rate": 4.2, "count": 80 }
+  }
+]
